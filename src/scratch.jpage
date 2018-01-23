@@ -1,0 +1,2 @@
+System.out.println(edu.cnm.deepdive.temperature.Converter.celsiusToFahrenheit(0));
+edu.cnm.deepdive.temperature.Converter.farenheitToCelsius(212)
